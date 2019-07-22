@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>1.0, Copyright © 2019 NEXTIDEA - Your NEXT IT Solutions! - www.nextidea.id, All Rights Reserved</string>
+	<key>CFBundleIdentifier</key>
+	<string>id.nextidea.netbeans</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>11.0 LTS</string>
+	<key>CFBundleName</key>
+	<string>NetBeans 11.0 LTS</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>info@nextidea.id</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2019 NEXTIDEA - Your NEXT IT Solutions! - www.nextidea.id, All Rights Reserved.</string>
+	<key>NSPrincipalClass</key>
+	<string>ShellScript</string>
+	<key>CFBundleExecutable</key>
+	<string>main.command</string>
+	<key>CFBundleIconFile</key>
+	<string>cmd</string>
+	<key>NSMainNibFile</key>
+	<string>main.nib</string>
+</dict>
+</plist>
